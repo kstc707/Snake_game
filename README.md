@@ -29,11 +29,5 @@ This is a simple Snake Game implemented in Python using the Turtle module.
 - Left Arrow: Move the snake left
 - Right Arrow: Move the snake right
 
-## Contributors
 
-- [Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
